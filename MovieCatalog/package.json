@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.1",
+    "prompt-async": "^0.9.9",
+    "prompt-promise": "^1.0.3",
+    "prompt-sync": "^4.2.0"
+  }
+}
